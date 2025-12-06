@@ -11,8 +11,8 @@ locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Yidan Cui"
 title_separator          : # "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Yidan Cui"
+description              : &description "Yidan Cui's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://cui-yd.github.io/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -48,39 +48,39 @@ author:
 
 
   # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
+  bitbucket        : # User - Update with your user on the site
+  codepen          : # User
+  dribbble         : # User
   github           : "Cui-yd"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  kaggle           : # User  
+  stackoverflow    : # User number or user number and  (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  artstation       : # Username
-  bluesky          : # "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
-  lastfm           : # Username
-  linkedin         : # Username
+  artstation       : # User
+  bluesky          : # "bsky.app" # Replace this with you Bluesky user
+  facebook         : # User
+  flickr           : # User
+  foursquare       : # User
+  goodreads        : # User
+  google_plus      : # User
+  keybase          : # User
+  instagram        : # User
+  lastfm           : # User
+  linkedin         : # User
   mastodon         : # URL
   medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
+  pinterest        : # User
+  soundcloud       : # User
+  steam            : # User
   telegram         : # URL
-  tumblr           : # Username
-  twitter          : # Username for X / Twitter
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username
-  zhihu            : # Username
+  tumblr           : # User
+  twitter          : # User for X / Twitter
+  vine             : # User
+  weibo            : # User
+  wikipedia        : # User
+  xing             : # User
+  youtube          : # User
+  zhihu            : # User
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
@@ -92,7 +92,7 @@ publication_category:
     title: 'Conference Papers'
 
 # Site Settings
-teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
+teaser                   :  # file of teaser fallback teaser image placed in /images/ for social media previews
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
